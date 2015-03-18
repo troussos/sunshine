@@ -9,7 +9,8 @@
                 tools:context="com.troussos.sunshine.DetailActivityFragment">
 
     <TextView
-            android:text="@string/hello_world"
+            android:id="@+id/detail_text"
+            android:text="TEST"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
